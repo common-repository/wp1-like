@@ -1,0 +1,19 @@
+.wp1_like_like, .bbp-reply-content .wp1_like_like, .bbp-reply-content a.wp1_like_like {
+    background:#002E62 !important;
+    border:none !important;
+    display: inline-block !important;
+    padding: 5px 10px !important;
+    cursor: pointer;
+    border-radius:3px;
+    text-decoration: none;
+}
+.wp1_like_like .fa{
+    font-size: inherit;
+    margin-right:3px;
+}
+.wp1_like_like, .bbp-reply-content .wp1_like_like, .bbp-reply-content a.wp1_like_like, .wp1_like_like .fa{
+    color:#fff !important;
+}
+.wp1_like_like:hover, .bbp-reply-content .wp1_like_like:hover, .bbp-reply-content a.wp1_like_like:hover{
+    background:#d11142 !important;
+}

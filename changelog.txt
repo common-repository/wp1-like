@@ -1,0 +1,10 @@
+== Changelog ==
+
+=1.2=
+Plugin compatible with WordPress version 6.5.3
+
+=1.1=
+Plugin compatibility checked for WordPress version 5.5.3
+
+=1.0=
+Plugin compatible with WordPress version 5.2.2
